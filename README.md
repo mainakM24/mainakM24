@@ -2,10 +2,9 @@
 
 💻 **Computer Science Student** | 🌱 **Open Source Enthusiast** | 🛠 **Tinkerer**
 
-- 🎓 BCA student passionate about **full-stack development** and **Linux customization**
-- 🧩 Love building with **Spring**, **Svelte**, and **Android**
+- 🎓 BCA student passionate about **full-stack development** 
 - 🛠 I use **Arch** and **Neovim**, btw
-- 🌟 Learning & building in public
+- 💻 Android and Web Developer
 
 ---
 
