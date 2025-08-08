@@ -19,13 +19,13 @@
 
 ## 🛠 Tech Stack
 
-**Backend:**  `Java` `Spring MVC` `Spring Boot` `JDBC` `MySQL`
+- **Backend:**  `Java` `Spring MVC` `Spring Boot` `JDBC` `MySQL`
 
-**Frontend:**  `SvelteKit` `HTMX` `Tailwind CSS` `ReactJs`
+- **Frontend:**  `SvelteKit` `HTMX` `Tailwind CSS` `ReactJs`
 
-**Mobile:**  `Java` `Android Studio` `Retrofit` `Volley`
+- **Mobile:**  `Java` `Android Studio` `Retrofit` `Volley`
 
-**Other Tools & Configs:**  `Arch Linux` `Hyprland` `Neovim` `Git`
+- **Other Tools & Configs:**  `Arch Linux` `Hyprland` `Neovim` `Git`
 
 ---
 
