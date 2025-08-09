@@ -3,8 +3,8 @@
 💻 **Computer Science Student** | 🌱 **Open Source Enthusiast** | 🛠 **Tinkerer**
 
 - 🎓 BCA student passionate about **full-stack development** 
-- 🛠 I use **Arch** and **Neovim**, btw
 - 💻 Android and Web Developer
+- 🛠 I use **Arch** and **Neovim**, btw
 
 ---
 
@@ -13,7 +13,6 @@
 
 - **🌐[Spring MVC Expense Tracker](https://github.com/mainakM24/expense-tracker)** – Track expenses and manage budgets with a Java + MySQL backend
 - **🌐[SvelteKit Binary Guesser](https://github.com/mainakM24/app-bin-T)** – Time-based logic game built with SvelteKit
-- **🖥[.dotfiles (Arch + Hyprland + Neovim)](#)** – My daily driver setup: clean, fast, fully custom
 - **📱[Health Visualizer App](https://github.com/mainakM24/rhythm-patient-rewrite)** – Visualizes health metrics on Android using Retrofit and RecyclerView
 
 
