@@ -19,11 +19,8 @@
 ## 🛠 Tech Stack
 
 - **Backend:**  `Java` `Spring MVC` `Spring Boot` `JDBC` `MySQL`
-
 - **Frontend:**  `SvelteKit` `HTMX` `Tailwind CSS` `ReactJs`
-
 - **Mobile:**  `Java` `Android Studio` `Retrofit` `Volley`
-
 - **Other Tools & Configs:**  `Arch Linux` `Hyprland` `Neovim` `Git`
 
 ---
