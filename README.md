@@ -8,14 +8,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-
-- **🌐[Spring MVC Expense Tracker](https://github.com/mainakM24/expense-tracker)** – Track expenses and manage budgets with a Java + MySQL backend
-- **🌐[SvelteKit Binary Guesser](https://github.com/mainakM24/app-bin-T)** – Time-based logic game built with SvelteKit
-- **📱[Health Visualizer App](https://github.com/mainakM24/rhythm-patient-rewrite)** – Visualizes health metrics on Android using Retrofit and RecyclerView
-
-
 ## 🛠 Tech Stack
 
 - **Backend:**  `Java` `Spring MVC` `Spring Boot` `JDBC` `MySQL`
