@@ -4,7 +4,7 @@
 
 - 🎓 BCA student passionate about **full-stack development** 
 - 💻 Android and Web Developer
-- 🛠 I use **Arch** and **Neovim**, btw
+
 
 ---
 
